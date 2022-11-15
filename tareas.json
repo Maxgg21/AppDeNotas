@@ -1,0 +1,42 @@
+[
+  {
+    "titulo": "Armar aplicación de Calculadora",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Repasar JS 1",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Armar aplicación de Tareas",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Break",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Repasar JS 2",
+    "estado": "terminadaRe"
+  },
+  {
+    "titulo": "Armar aplicación de Tareas2",
+    "estado": "en progreso"
+  },
+  {
+    "titulo": "Break",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Repaso de js 3",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Repaso de js 4",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Repaso de js 5",
+    "estado": "pendiente"
+  }
+]
